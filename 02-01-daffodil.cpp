@@ -1,6 +1,5 @@
 #include<stdio.h>
 #define LOCAL
-//≤‚ ‘github 
 int main(){
 	for(int i=100; i<=999; i++){
 		int a=i/100;
