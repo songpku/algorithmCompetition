@@ -1,0 +1,12 @@
+﻿生成启动时间为 2016/3/7 14:35:52。
+     1>项目“D:\git\algorithmCompetition\algorithmCompetitionAll\eg-05-08-unixLs\eg-05-08-unixLs.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         C:\software\study\VS2013\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _CRT_SECURE_NO_WARNINGS /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\eg-05-08-unixLs.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt "eg-05-08-unixLs.cpp"
+         eg-05-08-unixLs.cpp
+     1>d:\git\algorithmcompetition\algorithmcompetitionall\eg-05-08-unixls\eg-05-08-unixls.cpp(11): error C2143: 语法错误 : 缺少“;”(在“<class-head>”的前面)
+     1>d:\git\algorithmcompetition\algorithmcompetitionall\eg-05-08-unixls\eg-05-08-unixls.cpp(11): error C2734: “MAXN”: 如果不是外部的，则必须初始化常量对象
+     1>已完成生成项目“D:\git\algorithmCompetition\algorithmCompetitionAll\eg-05-08-unixLs\eg-05-08-unixLs.vcxproj”(Build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:00.92
