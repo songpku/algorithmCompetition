@@ -1,0 +1,7 @@
+3 4
+aa,Peter,peter@neerc.ifmo.ru,rr
+bb,Michael,michl@neerc.inmo.ru,rr
+bb,Michael,michael@neerc.inmo.ru,rr
+2 3 
+1,Peter,Pertertfs
+2,Michael,fjdlfsk

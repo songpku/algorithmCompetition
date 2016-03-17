@@ -1,4 +1,4 @@
-﻿生成启动时间为 2016/3/7 10:50:24。
+﻿生成启动时间为 2016/3/16 16:49:57。
      1>项目“D:\git\algorithmCompetition\algorithmCompetitionAll\eg-05-07-uglyNumber\eg-05-07-uglyNumber.vcxproj”在节点 3 上(Rebuild 个目标)。
      1>ClCompile:
          C:\software\study\VS2013\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _CRT_SECURE_NO_WARNINGS /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yc"stdafx.h" /Fp"Debug\eg-05-07-uglyNumber.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
@@ -13,4 +13,4 @@
 
 生成成功。
 
-已用时间 00:00:00.66
+已用时间 00:00:01.29
