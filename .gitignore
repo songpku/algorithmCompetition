@@ -26,3 +26,15 @@
 *.exe
 *.out
 *.app
+
+# vs
+*.opensdf
+*.sdf
+*.sln
+*.suo
+*.vcxproj
+*.filters
+*stdafx.h
+*stdafx.cpp
+*targetver.h
+
